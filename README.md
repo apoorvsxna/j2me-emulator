@@ -1,2 +1,2 @@
 # j2me-emulator
-Emulator for Java Micro Edition, written in JavaScript.
+This project aims to emulate running J2ME in a JavaScript environment (such as web browsers).
